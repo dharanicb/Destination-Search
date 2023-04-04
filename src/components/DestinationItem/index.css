@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.img-url {
+  height: 300px;
+  width: 450px;
+  border-radius: 10px;
+}
+.destination-name {
+  font-family: 'Roboto';
+  font-size: 20px;
+  padding: 5px;
+  color: #252627;
+}
+.search-destination {
+  margin: 10px;
+}
